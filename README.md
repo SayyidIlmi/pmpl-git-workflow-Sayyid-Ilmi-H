@@ -5,6 +5,7 @@ Repository ini digunakan untuk praktikum simulasi workflow Git dan GitHub.
 ## Tujuan
 
 Praktikum ini berfokus pada:
+
 - Fork repository
 - Branching
 - Commit bertahap
@@ -25,3 +26,9 @@ Project ini terdiri dari:
 
 Repository ini tidak berfokus pada pengembangan aplikasi.
 Fokus utama adalah praktik penggunaan Git secara profesional.
+
+## Anggota Kelompok
+
+Sayyid Ilmi
+Sugeng Riadika
+Zaki Julian
