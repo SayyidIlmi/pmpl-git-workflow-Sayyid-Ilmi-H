@@ -21,4 +21,5 @@ $title = "Git Workflow Simulation";
 
     <script src="script.js"></script>
 </body>
+
 </html>
