@@ -12,7 +12,7 @@ $title = "Git Workflow Simulation";
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+    <h1>Halo Admin</h1>
     <h1><?php echo $title; ?></h1>
 
     <p>Selamat datang di praktikum Git Workflow.</p>
