@@ -9,6 +9,13 @@ body {
 
 h1 {
     color: #333;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+p {
+    color: #666;
+    font-size: 18px;
 }
 
 p {
@@ -20,4 +27,9 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+    background-color: #007BFF;
+}
+
+button:hover {
+    background-color: #0056b3;
 }
